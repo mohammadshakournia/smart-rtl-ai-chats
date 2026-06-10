@@ -28,7 +28,7 @@
 ## مجوز 📄
 این پروژه تحت مجوز MIT منتشر شده است.
 
-⭐ اگر این پروژه برات مفید بود، ستاره دادن یادت نره!
+## 
 ---
 Chrome extension for automatic text direction (RTL) and font fixing in AI chat websites
 
@@ -57,5 +57,3 @@ After installation, the extension automatically activates on supported websites.
 
 ## License 📄
 This project is released under the MIT License.
-
-⭐ Don't forget to star this project if you found it useful!
