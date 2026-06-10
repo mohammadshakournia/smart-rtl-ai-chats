@@ -29,7 +29,7 @@
 این پروژه تحت مجوز MIT منتشر شده است.
 
 ## 
----
+
 Chrome extension for automatic text direction (RTL) and font fixing in AI chat websites
 
 ## Features ✨
