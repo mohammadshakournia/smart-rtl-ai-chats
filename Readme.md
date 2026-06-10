@@ -3,14 +3,13 @@
 افزونه کروم برای اصلاح خودکار جهت متن (RTL) و فونت در سایت‌های هوش مصنوعی
 
 ## قابلیت‌ها ✨
-- پشتیبانی از **ChatGPT**، **Gemini**، **Claude** و **DeepSeek**
+- پشتیبانی از **ChatGPT**، **Gemini**، **Claude**
 - اصلاح خودکار جهت متن برای فارسی (RTL)
 - تغییر فونت به Segoe UI برای خوانایی بهتر
 - بدون ایجاد فضای خالی در صفحه
 
 ## نصب 🚀
 
-### روش اول: نصب دستی
 1. این ریپازیتوری رو دانلود کنید
 2. در مرورگر کروم به آدرس `chrome://extensions` بروید
 3. حالت **Developer mode** را روشن کنید
@@ -24,7 +23,6 @@
 - ChatGPT (chatgpt.com)
 - Google Gemini (gemini.google.com)
 - Claude (claude.ai)
-- DeepSeek (deepseek.com)
 
 ## مجوز 📄
 این پروژه تحت مجوز MIT منتشر شده است.
