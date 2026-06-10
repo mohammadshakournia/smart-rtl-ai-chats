@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+  "name": "Smart RTL AI Chats",
+  "version": "2.0.1",
+  "description": "Smart RTL for Persian text in ChatGPT, Gemini, Claude, DeepSeek",
+  "author":"Mohammad R. Shakournia",
+  "icons": {
+    "16": "icons/16.png",
+    "48": "icons/48.png",
+    "128": "icons/128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://chatgpt.com/*",
+        "https://*.chatgpt.com/*",
+        "https://chat.deepseek.com/*",
+        "https://www.deepseek.com/*",
+        "https://deepseek.com/*",
+        "https://gemini.google.com/*",
+        "https://claude.ai/*"
+      ],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
