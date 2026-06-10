@@ -29,3 +29,33 @@
 این پروژه تحت مجوز MIT منتشر شده است.
 
 ⭐ اگر این پروژه برات مفید بود، ستاره دادن یادت نره!
+---
+Chrome extension for automatic text direction (RTL) and font fixing in AI chat websites
+
+## Features ✨
+- Supports **ChatGPT**, **Gemini**, and **Claude**
+- Automatically fixes text direction for Persian (RTL)
+- Changes font to Segoe UI for better readability
+- No empty space created on the page
+
+## Installation 🚀
+
+1. Download this repository
+2. Go to `chrome://extensions` in your Chrome browser
+3. Turn on **Developer mode**
+4. Click on **Load unpacked**
+5. Select the project folder
+6. Refresh the page
+
+## How to Use 📖
+After installation, the extension automatically activates on supported websites. No additional settings needed!
+
+## Supported Websites ✅
+- ChatGPT (chatgpt.com)
+- Google Gemini (gemini.google.com)
+- Claude (claude.ai)
+
+## License 📄
+This project is released under the MIT License.
+
+⭐ Don't forget to star this project if you found it useful!
